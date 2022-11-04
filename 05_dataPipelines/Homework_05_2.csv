@@ -1,0 +1,6 @@
+﻿Prefetch_buffer_size,Parallel_threads,Image/s,Standard Deviation
+8,128,909.95,117.13
+10,150,880.64,74.8
+16,250,725.7,80.12
+20,300,725.21,118.46
+30,500,880.13,254.99
